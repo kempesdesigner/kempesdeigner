@@ -1,8 +1,7 @@
 ## Bem-vindo(a) ao perfil de Kempes Furtado 😁
 
  <div>
-   <a href="https://github.com/kempesdesigner
-">
+   <a href="https://github.com/kempesdesigner">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kempesdesigner
 &show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kempesdesigner
